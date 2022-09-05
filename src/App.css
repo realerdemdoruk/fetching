@@ -4,7 +4,6 @@
   box-sizing: border-box;
 }
 .App {
-
 text-align: center;
 background-color: #282c34;
 min-height: 100vh;
@@ -13,7 +12,8 @@ justify-content: center;
 }
 
 .card{
-  height: 500px;
+  padding: 1rem;
+  height: auto;
   width: 500px;
   display: flex;
   align-items: center;
@@ -26,7 +26,6 @@ justify-content: center;
 }
 
 img{
-
   width: 60%;
   height: 60%;
 }
@@ -36,7 +35,6 @@ h1{
   margin-top: 1rem;
   color: purple;
 }
-
 
 p{
 margin-top: 1rem;
